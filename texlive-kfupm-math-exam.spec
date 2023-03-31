@@ -1,6 +1,6 @@
 Name:		texlive-kfupm-math-exam
 Version:	63977
-Release:	1
+Release:	2
 Summary:	A LaTeX document style to produce homework, quiz and exam papers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/kfupm-math-exam
