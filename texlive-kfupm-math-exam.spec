@@ -3,7 +3,7 @@ Version:	63977
 Release:	2
 Summary:	A LaTeX document style to produce homework, quiz and exam papers
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/kfupm-math-exam
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/kfupm-math-exam
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/kfupm-math-exam.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/kfupm-math-exam.doc.r%{version}.tar.xz
